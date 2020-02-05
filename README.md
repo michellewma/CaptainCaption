@@ -1,3 +1,2 @@
 # CaptainCaption
-http://devpost.com/software/captain-caption
-Photo caption messaging bot which earned the most entrepreneurial award at BaseHacks 2015 
+http://devpost.com/software/captain-caption - photo caption messaging bot, awarded most entrepreneurial at BaseHacks 2015 
